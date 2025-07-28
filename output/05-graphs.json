@@ -1,0 +1,85 @@
+{
+  "title": "Basic Graph Algorithms",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Basic Graph Algorithms",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "￿.￿",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction and History",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "￿.￿",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Basic De￿nitions",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "￿.￿",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Representations and Examples",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "￿.￿",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Data Structures",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "￿.￿",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Whatever-First Search",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "￿.6",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Important Variants",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "￿.￿",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Graph Reductions: Flood Fill",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Exercises",
+      "page": 21
+    }
+  ]
+}
